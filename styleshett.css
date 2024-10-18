@@ -1,0 +1,22 @@
+.granContenedor{
+    width: auto;
+    height: auto;
+    border: 10px black;
+}
+
+.visor{
+    height: 40px;
+    width: 211px;
+    border: 3px black;
+    background-color: rgb(106, 197, 61);
+}
+
+button{
+    width: 50px;
+    height: 50px;
+}
+
+.buttonigual{
+    background-color: red;
+}
+
